@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a Software Engineer at #100devs.
 
-- :seedling: Exploring Technical Content Writing.
+<!-- - :seedling: Exploring Technical Content Writing. -->
 
 - :zap: In my free time, I solve problems on CodeWars and breaking and rebuilding code.
 
