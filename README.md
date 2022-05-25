@@ -36,7 +36,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on CodeWars and breaking and rebuilding code.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyjreed)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?&color=blueviolet&style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyjreed)or <a href="https://www.emreedcodes.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=blueviolet&style=plastic&logo=Node.js&logoColor=white"/>
+  </a>
 
 ---
 
