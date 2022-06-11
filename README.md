@@ -4,10 +4,10 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/emilyjreed">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?&color=blueviolet&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?&color=green&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Em_Reeds_Code">
-    <img src="https://img.shields.io/badge/Twitter-blue?&color=blueviolet&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?&color=green&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
