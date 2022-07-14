@@ -52,10 +52,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="Mongo" alt="Mongo" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
   
   ---
 
 ### :fire: My Stats :
+[![Codewars Badge](https://www.codewars.com/users/EmReedsCode/badges/large)](https://www.codewars.com/users/emreedscode)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmReedCodes&date_format=M%20j%5B%2C%20Y%5D&theme=nightowl)](https://git.io/streak-stats)
   
