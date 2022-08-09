@@ -32,9 +32,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a Software Engineer at #100devs.
 
-<!-- - :seedling: Exploring Technical Content Writing. -->
+- :seedling: Exploring Svelte and React. 
 
 - :zap: In my free time, I solve problems on CodeWars and breaking and rebuilding code.
+
+- :computer: Currently working on a big project called Parrot. Using speech-to-text and text-to-speech tech for those with language delays.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?&color=green&style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emilyjreed)or <a href="https://www.emreedcodes.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=green&style=plastic&logo=Node.js&logoColor=white"/>
