@@ -44,6 +44,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### :boom: Projects:
+
+<div width:"500" height: "500">
+
+
+https://user-images.githubusercontent.com/96320126/184707760-83833b4c-72c5-4aa1-9e2b-2666125931d6.mp4
+
+</div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -55,6 +66,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
   
   ---
 
