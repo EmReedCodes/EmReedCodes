@@ -32,9 +32,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I'm a Software Engineer at #100devs.
 
-- :seedling: Exploring Svelte and React. 
+- :seedling: Taking a deep dive into React and next up TypeScript. 
 
-- :zap: In my free time, I solve problems on CodeWars and breaking and rebuilding code.
+- :zap: In my free time, I solve problems on CodeWars and enjoy watching shows with my cat.
 
 - :computer: Currently working on a big project called Parrot. Using speech-to-text and text-to-speech tech for those with language delays.
 
